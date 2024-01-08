@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ifeanyi365
+- 👋 Hi, I’m @Ifeanyi
 - 👀 I’m interested in developing a website.
 - 🌱 I’m currently learning wesbite development.
 - 💞️ I’m looking to collaborate on ...
